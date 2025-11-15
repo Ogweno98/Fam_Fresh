@@ -2,7 +2,8 @@
   "name": "famfresh",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/Fam_Fresh",
+  "type": "module",
+  "homepage": "https://ogweno98.github.io/Fam_Fresh",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
