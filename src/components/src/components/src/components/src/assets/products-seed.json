@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Fresh Maize (2kg)",
+    "price": 420,
+    "description": "Organic maize from Kenyan farmers.",
+    "image": "/assets/product_1.png",
+    "category": "Cereals",
+    "stock": 150,
+    "sellerId": "seller001"
+  },
+  {
+    "name": "Tomatoes (1kg)",
+    "price": 120,
+    "description": "Ripe field tomatoes directly from farm.",
+    "image": "/assets/product_2.png",
+    "category": "Fruits & Veggies",
+    "stock": 300,
+    "sellerId": "seller002"
+  },
+  {
+    "name": "Irish Potatoes (5kg)",
+    "price": 650,
+    "description": "Kenyan potatoes, quality grade A.",
+    "image": "/assets/product_3.png",
+    "category": "Roots & Tubers",
+    "stock": 200,
+    "sellerId": "seller003"
+  },
+  {
+    "name": "Fresh Kale (500g)",
+    "price": 80,
+    "description": "Green leafy kale rich in vitamins.",
+    "image": "/assets/product_4.png",
+    "category": "Fruits & Veggies",
+    "stock": 400,
+    "sellerId": "seller004"
+  },
+  {
+    "name": "Maize Flour (2kg)",
+    "price": 480,
+    "description": "White maize flour – premium milling.",
+    "image": "/assets/product_5.png",
+    "category": "Commodities",
+    "stock": 180,
+    "sellerId": "seller001"
+  }
+]
